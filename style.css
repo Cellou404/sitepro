@@ -21,7 +21,7 @@ iframe {
 
 /* SECTION COVER */
 div.cover {
-    background:url(assets/cover_overlay.png) no-repeat center/100% 100% ,url(assets/cover.jpg) no-repeat center/cover;
+    background:url('assets/cover_overlay.png') no-repeat center/100% 100% ,url('assets/cover.jpg') no-repeat center/cover;
     height: 360px;
     position: relative;
 
@@ -176,7 +176,7 @@ table img {
 /* PORFOLIO CSS */
 .porfolio-header {
     height: 90px;
-    background:url(assets/header.jpg) no-repeat center/cover;
+    background:url('assets/header.jpg') no-repeat center/cover;
     position: relative;
 }
 .porfolio-header .me-contacter {
